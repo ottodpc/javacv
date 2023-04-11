@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Otto_cv</string>
+    <string name="java">Java</string>
+    <string name="php">PHP</string>
+    <string name="experience">Experience</string>
+    <string name="formation">Formation</string>
+    <string name="comp_tence">Compétence</string>
+    <string name="mesProjets">Mes Projets</string>
+    <string name="langages">Langages</string>
+    <string name="myname">OTTO Cyprien</string>
+    <string name="phone">0623553312</string>
+    <string name="email">cyprienotto@outlook.fr</string>
+    <string name="adresse">Paris</string>
+
+</resources>
